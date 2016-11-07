@@ -9,6 +9,10 @@ A live demo can be found at https://pagarme.github.io/react-event-components
 
 ## Usage
 
+`yarn add react-event-components`
+or
+`npm install react-event-components --save`
+
 ```javascript
 import React, { Component } from 'react'
 import ReactDOM from 'react-dom'
